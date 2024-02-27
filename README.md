@@ -8,4 +8,4 @@
 ### - Stas Yukhymenko [github](https://github.com/stasyukhymenko), [telegram](https://t.me/stas_yukhymenko);
 
 ## Go lang
-## This string should be here
+## This string should be here, this text too
