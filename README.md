@@ -7,5 +7,7 @@
 ### - Sashko Vysokovskyi [github](https://github.com/v-jester), [telegram](https://t.me/VJester);
 ### - Stas Yukhymenko [github](https://github.com/stasyukhymenko), [telegram](https://t.me/stas_yukhymenko);
 
-## Go lang, programming language
-## This string should be here
+## Go lang
+## This string should be here, this text too
+## This should be in README.md
+## KPI
