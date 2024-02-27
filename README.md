@@ -7,4 +7,4 @@
 ### - Sashko Vysokovskyi [github](https://github.com/v-jester), [telegram](https://t.me/VJester);
 ### - Stas Yukhymenko [github](https://github.com/stasyukhymenko), [telegram](https://t.me/stas_yukhymenko);
 
-## Hello world
+## Go lang
