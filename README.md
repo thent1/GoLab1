@@ -10,4 +10,3 @@
 ## Go lang
 ## This string should be here, this text too
 ## This should be in README.md
-## KPI
